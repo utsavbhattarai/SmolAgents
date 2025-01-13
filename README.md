@@ -8,7 +8,7 @@ This project creates a multi-agent travel itinerary system using SmolAgents from
 ## Project Highlights 🚀
 - Leverages **smolagents** to build a **multi-agent** system for creating travel itineraries.
 - Agents collaborate to **fetch, analyze, and organize** travel data based on user input.
-- Uses: **ToolCallingAgent**, **ManagedAgent** and **CodeAgent** to write itenary.
+- Uses: **ToolCallingAgent**, **ManagedAgent** and **CodeAgent** to write itinerary.
 - Implements **DuckDuckGoSearchTool** to search the web contents
 
 
