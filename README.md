@@ -15,7 +15,7 @@ This project creates a multi-agent travel itinerary system using SmolAgents from
 ##  Tools: smolagents, python
 
 
-## Preview of the ouptut itenary can be found here: 
+## Preview of the ouptut itinerary can be found here: 
 - [Sample Output of the Travel Itinerary](https://github.com/utsavbhattarai/SmolAgent/blob/main/itenary_post.md)
 - [Code](https://github.com/utsavbhattarai/SmolAgent/blob/main/smolagent_travel_itinerary.py)
 
